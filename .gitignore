@@ -1,0 +1,10 @@
+*
+!/.gitattributes
+!/.gitignore
+!/CMakeLists.txt
+!/src
+!/src/**
+!/3rdparty
+!/3rdparty/**
+!/headers
+!/headers/**
